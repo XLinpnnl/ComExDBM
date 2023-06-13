@@ -1,18 +1,16 @@
 # ComExDBM
 Compound Extremes Data Benchmarking (ComExDBM)
 
-This readme file was created by by Xinming Lin. Last updated on 05/31/2023 
+This readme file was created by by Xinming Lin. Last updated on 06/12/2023 
+
 Access by contacting Xinming Lin at xinming.lin@pnnl.gov
 
 Project Name: Compound Extremes Data Benchmarking (ComExDBM)
-Creator : Xinming Lin; xinming.lin@pnnl.gov
-Date of last update: 2023-05-31
+
+Date of last update: 2023-06-12
 Revision history:
 2023-05-03 : Initial creation data
-2023-05-31 : Cleaned up formatting
-
-Files location on deception : /qfs/projects/comexdbm/LDRD_extremes/ComExDBM
-README.md location : ./ComExDBM/README.md
+2023-06-12 : Cleaned up formatting
 *******************************************************************************
 1. Data description
 
