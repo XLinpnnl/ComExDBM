@@ -1,9 +1,7 @@
 # ComExDBM
 Compound Extremes Data Benchmarking (ComExDBM)
 
-This readme file was created by by Xinming Lin. Last updated on 06/12/2023 
-
-Access by contacting Xinming Lin at xinming.lin@pnnl.gov
+Access by contacting xinming.lin@pnnl.gov
 
 Project Name: Compound Extremes Data Benchmarking (ComExDBM)
 
@@ -14,6 +12,16 @@ Revision history:
 *******************************************************************************
 1. Data description
 
+Extreme weather events such as fires, heatwaves(HWs), and droughts result in significant socioeconomic
+and environmental damage around the world. Mechanistic and predictive understanding of extreme weather
+events are crucial for the detection, planning and response to these extremes and mitigating their 
+impacts. Records of historical extreme weather events provide an important data source for understanding
+present and future climate risks, but the data are sparse, unevenly distributed, and of multi-fidelity 
+from multiple sources; in addition, there are many nonstandard metrics defining the levels of severity 
+or impacts of extremes. In this study, we develop a benchmark data inventory of US extreme weather 
+events (i.e., fires, HWs, and droughts) with daily temporal resolution and spatial resolution of 
+0.5°×0.5° (~55km×55km) using data from multiple sources. 
+ 
 The data inventory of US extreme weather events were created using heatwaves(HWs), fires, droughts, 
 and meteorological variables data collected from multiple sources. The resulting datasets include 
 daily temperature anomaly, heatwave labels, fire related features(i.e., fire hot spots, fire burned 
